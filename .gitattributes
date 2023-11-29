@@ -1,0 +1,1 @@
+dataset/Satellite_Imagery_Dataset.zip filter=lfs diff=lfs merge=lfs -text
