@@ -22,7 +22,7 @@ Conducted from July 7, 2022, to July 10, 2022, the project involved research, im
 
 ## Project Colab Link
 
-For detailed implementation and experimentation, please refer to the [Project's Google Colab](https://colab.research.google.com/drive/1zG86MekBV1mmnvGVlLSHW2LRYOJGTXZr).
+For detailed implementation and experimentation, please refer to the [project's Google Colab](https://colab.research.google.com/drive/1zG86MekBV1mmnvGVlLSHW2LRYOJGTXZr).
 
 ## Getting Started
 
