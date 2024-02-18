@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, undertaken by members of TUNSA's AI team, focuses on the development of advanced object detection algorithms using satellite imagery. Leveraging state-of-the-art machine learning methodologies, the project aims to accurately detect cars and pools in satellite images, facilitating various applications including urban planning and environmental monitoring.
+This project focuses on the development of advanced object detection algorithms using satellite imagery. Leveraging state-of-the-art machine learning methodologies, it aims to accurately detect cars and pools in satellite images, facilitating various applications including urban planning and environmental monitoring.
 
 ## Project Scope
 
-Conducted from July 7, 2022, to July 10, 2022, the project involved research, implementation, and optimization phases.
+Conducted from July 7, 2022, to July 10, 2022, the project was undertaken by members of TUNSA's AI team, and involved research, implementation, and optimization phases.
 
 ## Technical Details
 
