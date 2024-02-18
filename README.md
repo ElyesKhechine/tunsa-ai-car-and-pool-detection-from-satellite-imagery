@@ -10,7 +10,7 @@ This project focuses on the development of advanced object detection algorithms 
 
 ## Project Scope
 
-Conducted from July 7, 2022, to July 10, 2022, the project was undertaken by members of TUNSA's AI team, and involved research, implementation, and optimization phases.
+The project was conducted by members of TUNSA's AI team from July 7, 2022, to July 10, 2022. It involved research, implementation, and optimization phases.
 
 ## Technical Details
 
